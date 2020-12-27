@@ -40,8 +40,8 @@ font-size: 10px;
 }
 
 .header__optionLineTwo{
-font-size: 14px;
-font-weight: 700;
+font-size: 15px;
+font-weight: 800;
 }
 
 .header__optionBasket{
@@ -51,8 +51,9 @@ color:white;
 }
 
 .header_basketCount{
-margin-left: 10px;
-margin-right: 10px;
+margin-left: 40px;
+margin-right: 40px;
+
 }
 
 .header__nav{
@@ -63,9 +64,10 @@ margin-right: 10px;
 .header__option {
     display: flex;
     flex-direction: column;
-    margin-left: 10px;
+    margin-left: 12px;
     margin-right: 10px;
     color:white;
+    
 
 }
 
